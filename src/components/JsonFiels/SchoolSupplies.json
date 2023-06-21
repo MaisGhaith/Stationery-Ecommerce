@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Pencils",
+    "description": "10pcs/Lot Ultra Fine Finance Gel Pen Black/Blue/Red Ink Refills Rods Gel Pen For School Office Exam Supplies Stationery",
+    "price": 9.99,
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/09/29/1664417122c013fd55064c76a21e6fafbff0cf2c8e_thumbnail_900x.webp",
+    "category": "School Supplies",
+    "Sale": 33,
+    "quantity": 1
+  },
+  {
+    "title": "Memo Pad",
+    "description": "Transparent Memo Pad Bookmark Marker Memo Sticker Paper Office School Supplies ",
+    "price": 1.9,
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/11/02/16673612219e0631271b546c59ca1a4d0925e80393_thumbnail_900x.webp",
+    "category": "School Supplies",
+    "Sale": 15,
+    "quantity": 1
+  },
+  {
+    "title": " Eraser",
+    "description": "6pcs Slogan Graphic Correction Tape Set",
+    "price": 3.6,
+    "img": "https://img.ltwebstatic.com/images3_pi/2023/03/16/1678956236d2aca7a1973941be95812114c212218e_thumbnail_900x.webp",
+    "category": "School Supplies",
+    "quantity": 1
+  },
+  {
+    "title": "Pen Holder",
+    "description": "1pc Solid Color Pen Holder, Simple Multi-grid Rotatable Large Capacity Desktop Stationery Storage Box For Office, Student Stationery Storage",
+    "price": 6.2,
+    "img": "https://img.ltwebstatic.com/images3_pi/2023/05/02/1683011396ceebb878d3229b36e70ff00e0236e7c8_thumbnail_900x.webp",
+    "category": "School Supplies",
+    "quantity": 1
+  },
+  {
+    "title": "Notebook",
+    "description": "1pc Random Color Spiral Notebook    ",
+    "price": 4.6,
+    "img": "https://img.ltwebstatic.com/images3_pi/2023/05/03/16830933897cd4476e35dd8f76a0fa1f83f82abb5f_thumbnail_900x.webp",
+    "category": "School Supplies",
+    "quantity": 1
+  }
+]

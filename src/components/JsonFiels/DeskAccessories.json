@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Supplies Holder",
+    "description": "1pc Solid Random Desk Supplies Holder",
+    "price": 1.98,
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/10/14/1665741544b6f6da577ac134ecee5869093f280139_thumbnail_900x.webp",
+    "category": "Desk Accessories",
+    "quantity": 1
+  },
+  {
+    "title": "Iron File Tray",
+    "description": "1pc Iron File Tray, Nordic Letter Tray For Office, Home, School        ",
+    "price": 8.7,
+    "img": "https://img.ltwebstatic.com/images3_pi/2023/03/09/16783286956a509b6a69a6f512c2044f9d0405bc01_thumbnail_900x.webp",
+    "category": "Desk Accessories",
+    "quantity": 1
+  },
+  {
+    "title": " Pen Holder",
+    "description": "1pc Cactus Design Pen Holder        ",
+    "price": 2.9,
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/24/1656036090dfff3426bc40ad9c89124f7feada424a_thumbnail_900x.webp",
+    "category": "Desk Accessories",
+    "quantity": 1
+  },
+  {
+    "title": "Sticky Note",
+    "description": "m Index Sticky Note        ",
+    "price": 1.2,
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/12/05/1670223753a3decb6bc008bed019640f0179c35482_thumbnail_900x.webp",
+    "category": "Desk Accessories",
+    "quantity": 1
+  },
+  {
+    "title": "Pen Holder",
+    "description": "1pc Multi-grid Pen Holder        ",
+    "price": 10.7,
+    "img": "https://img.ltwebstatic.com/images3_pi/2023/05/03/1683105690f8b9527f13bc7ec09c5b8cf94305cf00_thumbnail_900x.webp",
+    "category": "Desk Accessories",
+    "quantity": 1
+  },
+  {
+    "title": "Storage Box",
+    "description": "1pc Retractable Plain Stationery Storage Box        ",
+    "price": 10.4,
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/08/26/1661507670e800c6c23e31df5dfa92d0c2b780bb33_thumbnail_900x.webp",
+    "category": "Desk Accessories",
+    "quantity": 1
+  }
+]

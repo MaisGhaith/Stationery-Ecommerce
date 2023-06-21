@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Art Palette",
+    "description": "1pc Multi-grid Art Palette With Lid",
+    "price": 4.0,
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/12/22/167170688399b6131de00b5d2533cf5d124aef1ed0.webp",
+    "category": "Art Supplies",
+    "quantity": 1
+  },
+  {
+    "title": "Watercolor",
+    "description": "1set 36 Colors Watercolor, Simple Color Block Plastic Solid Watercolor For Drawing",
+    "price": 6.5,
+    "img": "https://img.ltwebstatic.com/images3_pi/2023/03/13/1678698243a01b2834dc9b6d7dd2f6fe2bd174869a_thumbnail_900x.webp",
+    "category": "Art Supplies",
+    "quantity": 1
+  },
+  {
+    "title": "Brush",
+    "description": "10pcs Random Color Painting Brush",
+    "price": 2.0,
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/11/30/166979684018a2cfa02a3e6d6de9fd112f8c7726c6_thumbnail_900x.webp",
+    "category": "Art Supplies",
+    "quantity": 1
+  },
+  {
+    "title": "Art Book",
+    "description": "1pc Scratch Art Book, 10 Sheets Scratch Art Paper With 1pc Pen, Black Scratch It Off Paper Craft For Kids Students Drawing Painting Gift        ",
+    "price": 0.9,
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/11/02/1667356104aa2143ce3b376bad32b81fa0841cf213_thumbnail_900x.webp",
+    "category": "Art Supplies",
+    "quantity": 1
+  },
+  {
+    "title": "Painting Brush",
+    "description": "6pcs Water Injection Painting Brush",
+    "price": 2.81,
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/11/02/1667356104aa2143ce3b376bad32b81fa0841cf213_thumbnail_900x.webp",
+    "category": "Art Supplies",
+    "quantity": 1
+  }
+]

@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@700&family=Playfair+Display:ital@0;1&family=Sono:wght@300;400;500&family=Source+Code+Pro:ital,wght@1,200;1,400&display=swap");
+
+* {
+  font-family: 'Cairo Play', sans-serif;
+  font-family: 'Rakkas', cursive;
+  margin: 0;
+  padding: 0;
+  color: black;
+}
+
+footer {
+  background-color: #f5ebeb !important;
+  color: rgb(0, 0, 0) !important;
+}
+
+li {
+  cursor: pointer;
+}

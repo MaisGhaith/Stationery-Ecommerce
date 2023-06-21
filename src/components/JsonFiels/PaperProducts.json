@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Postcards",
+    "description": "Mixed Color ",
+    "price": 3.7,
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/03/14/1647251285408316d672607e00a0b0ff31308f77d2_thumbnail_900x.webp",
+    "category": "Paper Products",
+    "quantity": 1
+  },
+  {
+    "title": "Mixed Color",
+    "description": "30pcs Cute Bear Postcards",
+    "price": 3.9,
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/05/06/1651816108d7c15ed061c4f7bfd522b03cc4a01442_thumbnail_900x.webp",
+    "category": "Paper Products",
+    "quantity": 1
+  },
+  {
+    "title": " Pen Holder",
+    "description": "1pc Multifunction Pen Holder",
+    "price": 16.6,
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/09/30/1664514937ae81a71bbbd41ede792f992b6586ebe4.webp",
+    "category": "Paper Products",
+    "quantity": 1
+  },
+  {
+    "title": "Notebook",
+    "description": "1pc Random Color Spiral Notebook",
+    "price": 5.2,
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/05/05/1651739510602f640c1d3b3f6be609d6ea118d77ce_thumbnail_900x.webp",
+    "category": "Paper Products",
+    "quantity": 1
+  },
+  {
+    "title": "Notebook",
+    "description": "1pc Random Color Spiral Notebook",
+    "price": 5.2,
+    "img": "https://img.ltwebstatic.com/images3_pi/2023/03/08/167826819362182624e6ea95ef54df4311497b3329_thumbnail_900x.webp",
+    "category": "Paper Products",
+    "quantity": 1
+  },
+  {
+    "title": "Marker",
+    "description": "83pcs Letter Graphic Pencil & Marker & Sticker        ",
+    "price": 22.7,
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/11/22/1669084806fcf8b3339950bd63bdaf8ba84b25502e_thumbnail_900x.webp",
+    "category": "Paper Products",
+    "quantity": 1
+  }
+]

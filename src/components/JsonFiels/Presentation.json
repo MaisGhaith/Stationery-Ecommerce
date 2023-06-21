@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Projector",
+    "description": "AuKing Projector, 2023 Upgraded Mini Projector, 9500 lumens Multimedia Home Theater Video Projector    ",
+    "price": 89.3,
+    "img": "https://m.media-amazon.com/images/I/61+CDKTXYgL._AC_SL1500_.jpg",
+    "category": "Presentation",
+    "Sale": 25,
+    "quantity": 1
+  },
+  {
+    "title": "Board ",
+    "description": "1pc Clear Memo Board, Simple Rectangle Writing Board For Office, School    ",
+    "price": 7.9,
+    "img": "https://img.ltwebstatic.com/images3_pi/2023/03/13/167867876754e473d08648304835eb96aabe6b6ce1_thumbnail_900x.webp",
+    "category": "Presentation",
+    "quantity": 1
+  },
+  {
+    "title": " Projector Holder",
+    "description": "1pc Wall Mounted Projector Holder",
+    "price": 5.6,
+    "img": "https://img.ltwebstatic.com/images3_pi/2023/02/10/1676011219335c1a8416df1b4f6c1ab016f8751c44_thumbnail_900x.webp",
+    "category": "Presentation",
+    "quantity": 1
+  }
+]

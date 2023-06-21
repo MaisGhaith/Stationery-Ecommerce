@@ -1,0 +1,13 @@
+.imgstyle{
+    transition: width 2s, height 4s;
+    transition-timing-function: ease;
+}
+/* .imgstyle:hover{
+    width: 100px;
+} */
+.banner{
+    background-image: url("../../../public/Images/banner.svg");
+}
+.con,body{
+    background-color: white;
+}

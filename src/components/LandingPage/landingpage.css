@@ -1,0 +1,155 @@
+.paragraph-hero {
+  /* position: absolute; */
+  /* margin: 10rem 23rem; */
+  width: 24.625rem;
+  height: 15.875rem;
+  background-color: #f7f8fab5;
+  z-index: 100;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  text-align: center;
+}
+
+.paragraph-hero button {
+  background-color: #f1a661;
+  padding: 6px 8px;
+  color: white;
+}
+
+.paragraph-hero button:hover {
+  backdrop-filter: white;
+  color: black;
+}
+
+.paragraph-hero h1 {
+  font-size: 32px;
+}
+
+.banner {
+  background: rgb(236 210 210);
+  background: linear-gradient(0deg, rgb(255 255 255) 0%, rgba(195, 167, 167, 1) 19%, rgb(235 224 224) 40%, rgba(245, 235, 235, 1) 100%);
+}
+
+.landing-categories {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  margin: 7rem 8rem;
+
+  gap: 5rem;
+}
+
+.sales-container {
+  color: black;
+  margin: 7rem 6rem;
+  background-color: rgb(242, 224, 224);
+  padding: 2rem 0;
+}
+
+.categories-card {
+  box-shadow: 0px 0px 4px 0px;
+  border-radius: 10px;
+  background-color: #E4D0D0;
+}
+
+.categories-card:hover,
+.sale-card:hover {
+  scale: 1.1;
+  transition-duration: 1s;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.image-category-container {
+  background-color: rgb(247, 248, 250);
+  width: 15.938rem;
+  height: 14.375rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  padding: 20px;
+}
+
+.flash-sale {
+  display: flex;
+  flex-direction: column;
+  /* Items will be stacked behind each other */
+  align-items: center;
+  /* Center the items horizontally */
+  margin: 5rem 0;
+  gap: 2rem;
+  color: black;
+}
+
+@media screen and (min-width: 768px) {
+
+  /* Apply styles when screen width is 768px or more */
+  .flash-sale {
+    flex-direction: row;
+    /* Items will be displayed next to each other */
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}
+
+.sale-card {
+  position: relative;
+  padding: 1rem;
+  width: 15%;
+}
+
+.sale-card button {
+  margin-top: 1rem;
+  width: 100%;
+  background-color: rgb(87, 191, 192);
+  color: white;
+}
+
+.sold-bar {
+  width: 50%;
+}
+
+.discount-badge {
+  position: absolute;
+  background-color: #facf19;
+  width: 3.125rem;
+  height: 3.75rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.featured-products {
+  padding: 10rem;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.featured-products {
+  width: 100%;
+  height: 35rem;
+  background-color: #f4efea;
+}
+
+.featured-prodoct-card {
+  background-color: white;
+  width: 16rem;
+  height: 6.938rem;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  gap: 20px;
+}
+
+.featured-products-cards {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  gap: 3rem;
+  grid-auto-flow: dense;
+}
